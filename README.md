@@ -12,7 +12,7 @@
 ### Experience 🎓
 - DongEui-Universty computer science department (2015.03 ~ 2021.02)
 - 42SEOUL (2021.04 ~ 2021.05)
-- SSAFY6 (2021.07 ~ now)
+- SSAFY 6th (2021.07 ~ now)
 
 ### Experience Tech & Language
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
