@@ -27,6 +27,6 @@
 ### Algorithm (BAEKJOON ONLINE JUDGE)
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=postkim03">
 
-### GIT HUB
+### GITHUB
 ![blackvill's github stats](https://github-readme-stats.vercel.app/api?username=blackvill&show_icons=true) [![blackvill's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blackvill&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/blackvill)
 ![trophy](https://github-profile-trophy.vercel.app/?username=blackvill)
