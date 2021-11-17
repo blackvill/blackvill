@@ -3,7 +3,7 @@
 
 ### BlackVill's SNS
 
-[![mail Badge](https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:postkim03@naver.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/postkim03) [![Tistory Badge](https://img.shields.io/badge/TistroyBlog-FF5722?style=flat&logoColor=white)](https://blackvill.tistory.com/)
+[![mail Badge](https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:postkim03@naver.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/blackv2ll) [![Tistory Badge](https://img.shields.io/badge/TistroyBlog-FF5722?style=flat&logoColor=white)](https://blackvill.tistory.com/)
 
 ### Who Am I
 - 🥇 I majored in Computer engineering
