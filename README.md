@@ -3,7 +3,9 @@
 
 ### BlackVill's SNS
 
-[![mail Badge](https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:postkim03@naver.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/blackv2ll) [![Tistory Badge](https://img.shields.io/badge/TistroyBlog-FF5722?style=flat&logoColor=white)](https://blackvill.tistory.com/)
+[![mail Badge](https://img.shields.io/badge/Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:postkim03@naver.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/blackv2ll)
+[![Tistory Badge](https://img.shields.io/badge/TistroyBlog-FF5722?style=flat&logoColor=white)](https://blackvill.tistory.com/)
 
 ### Who Am I
 - 🥇 I majored in Computer engineering
@@ -13,6 +15,15 @@
 - DongEui-Universty computer science department (2015.03 ~ 2021.02)
 - 42SEOUL (2021.04 ~ 2021.05)
 - SSAFY 6th (2021.07 ~ now)
+
+### Patent
+- 스마트 에어 피아노(Smart Air Piano) (2021.06.14)
+
+### Contest
+- SSAFY 6기 특화프로젝트 부울경 2반 우수상 (2등 / 2022)
+- SSAFY 6기 특화프로젝트 UCC 경진대회 우수상 (특별상(사회공헌) / 2022)
+- SSAFY 6기 공통프로젝트 부울경 1반 우수상 (1등 / 2022)
+- 융복합 캡스톤디자인 경진대회 최우수상 (2019)
 
 ### Experience Tech & Language
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
