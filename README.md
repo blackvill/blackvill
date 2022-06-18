@@ -25,7 +25,7 @@
 - 🎳  Bowling
 
 ### Algorithm (BAEKJOON ONLINE JUDGE)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=postkim03">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=postkim03)](https://solved.ac/postkim03/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=hunu_cho&theme=dark)](https://solved.ac/postkim03/)
 
 ### GITHUB
